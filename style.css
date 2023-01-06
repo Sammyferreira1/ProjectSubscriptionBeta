@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  background-color: #151517;
+  font-family: 'Kanit', sans-serif;
+  box-sizing: border-box;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  padding: 45px 40px;
+}
+
+/* CABEÇALHO */
+
+header {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+#attention {
+  color: #8257E6;
+}
+
+header div {
+  display: flex;
+  gap:10px;
+}
+
+/* DUVIDAS */
+
+.questions {
+  text-align: left;
+  margin-bottom: 80px;
+  
+  display: flex;
+  flex-direction: column;
+  gap:25px;
+}
+
+#title_question {
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+ul {
+  padding: 0;
+  list-style:none;
+}
+
+/* Formulário */
+
+main {
+  display: flex;
+  flex-direction: column;
+  background: #232327;
+  margin-bottom: 30px;
+  padding: 50px 40px;
+  gap: 5px;
+  border-radius: 5px;
+  
+  max-width: 412px;
+  min-width: 412px;
+}
+
+main input {
+  margin-bottom:15px;
+  height: 40px;
+  padding: 10px;
+  background-color: white;
+  border: 3px solid #202024;
+  border-radius: 7px;
+  outline: none;
+  
+  transition: all 0.2s ease;
+}
+
+main input:hover {
+  border: 3px solid #8257E6;
+}
+
+main button {
+  font-size: 20px;
+  margin-top: 30px;
+  background-color: #8257E6;
+  opacity: 0.95;
+  color: white;
+  font-weight: bold;
+  height: 55px;
+  border-radius: 15px;
+  border: none;
+  
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  opacity: 1;
+  transform: scale(1.03);
+}
+
+/* FOOTER */
+
+footer {
+  height: 130px;
+  margin-bottom: 15px;
+  text-decoration: none;
+  outline: none;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  
+}
+
+footer a {
+  height: 60px;
+  width:60px ;
+  color: white;
+  padding: 5px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 50%;
+  
+  transition: all 0.1s ease;
+}
+
+footer a:hover {
+  background: rgba(130, 87, 240, 0.8);
+}
+
+ion-icon {
+  margin-top: 5px;
+  font-size: 32px;
+  padding-bottom: 5px;
+}
+
+#cr a {
+  color: white;
+}
+
+/*media queries*/
+
+@media (min-width: 700px) {
+  #prin {
+    min-width: 539px;
+    max-width: 539px;
+  }
+}
