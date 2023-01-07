@@ -25,7 +25,7 @@
   
   ## 📁 Acesso ao projeto
   
-  Você pode acessar o projeto clicando [AQUI](https://github.com/Sammyferreira1/ProjectSubscriptionBeta).
+  Você pode acessar o [PROJETO](https://github.com/Sammyferreira1/ProjectSubscriptionBeta).
   
   ## ✔️ Tecnologias Utilizas
   
@@ -34,6 +34,6 @@
 
   ## 🧾 Resumo do projeto
   
-  Acessar o site >  [AQUI](https://sammyferreira1.github.io/ProjectSubscriptionBeta/)
+  Live site URL :  [Subscription Test Beta](https://sammyferreira1.github.io/ProjectSubscriptionBeta/)
   
   Site feita para praticar HTML e CSS.
