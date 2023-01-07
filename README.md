@@ -8,7 +8,9 @@
   </p>
   
   <p align="center">
+  
   [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+  
   </p>
   
   ## 🖼️ Preview
@@ -23,7 +25,7 @@
   
   ## 📁 Acesso ao projeto
   
-  Você pode acessar o projeto clicando [aqui](https://sammyferreira1.github.io/ProjectSubscriptionBeta/).
+  Você pode acessar o projeto clicando [AQUI](https://github.com/Sammyferreira1/ProjectSubscriptionBeta).
   
   ## ✔️ Tecnologias Utilizas
   
