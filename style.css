@@ -29,6 +29,10 @@ header {
   margin-bottom: 70px;
 }
 
+#desc {
+  width: 100%;
+}
+
 #attention {
   color: #8257E6;
 }
